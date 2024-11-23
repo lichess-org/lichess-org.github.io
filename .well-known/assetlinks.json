@@ -1,10 +1,20 @@
 [
   {
-    "relation": ["lookalikes/allowlist"],
-    "target": {"namespace": "web", "site": "https://lichess.org"}
+    "relation": [
+      "lookalikes/allowlist"
+    ],
+    "target": {
+      "namespace": "web",
+      "site": "https://lichess.org"
+    }
   },
   {
-    "relation": ["lookalikes/allowlist"],
-    "target": {"namespace": "web", "site": "https://lichess-org.github.io"}
+    "relation": [
+      "lookalikes/allowlist"
+    ],
+    "target": {
+      "namespace": "web",
+      "site": "https://lichess-org.github.io"
+    }
   }
 ]
