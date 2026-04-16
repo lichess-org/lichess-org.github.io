@@ -10,6 +10,8 @@
           { "/": "/tournament/????????", "comment": "Tournaments" },
           { "/": "/broadcast/*/*/????????", "comment": "Broadcast rounds" },
           { "/": "/broadcast/*/*/????????/????????", "comment": "Broadcast games" },
+          { "/": "/@/*", "comment": "User profile or user TV" },
+          { "/": "/tv/*", "comment": "Lichess TV" },
           { "/": "/????????", "comment": "Games and challenges" },
           { "/": "/????????/black", "comment": "Games (black perspective)" },
           { "/": "/????????/white", "comment": "Games (white perspective)" }
