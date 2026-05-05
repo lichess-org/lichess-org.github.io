@@ -18,6 +18,8 @@
           { "/": "/study/????????" },
           { "/": "/study/????????/????????" },
           { "/": "/tournament/????????" },
+          { "/": "/@/*" },
+          { "/": "/tv/*" },
           { "/": "/broadcast/*" },
           { "/": "/training",  "exclude": true },
           { "/": "/analysis",  "exclude": true },
