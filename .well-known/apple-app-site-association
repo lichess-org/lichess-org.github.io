@@ -10,6 +10,7 @@
           { "/": "/tournament/????????", "comment": "Tournaments" },
           { "/": "/broadcast/*/*/????????", "comment": "Broadcast rounds" },
           { "/": "/broadcast/*/*/????????/????????", "comment": "Broadcast games" },
+          { "/": "/@/*/*", "exclude": true, "comment": "Exclude any unsupported user profile paths" },
           { "/": "/@/*", "comment": "User profile or user TV" },
           { "/": "/tv/*", "comment": "Lichess TV" },
           { "/": "/????????", "comment": "Games and challenges" },
