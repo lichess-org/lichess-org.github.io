@@ -1,4 +1,3 @@
-Contact: mailto:contact@lichess.org
+Contact: https://github.com/lichess-org/lila/security/advisories/new
 Expires: 2026-12-15T23:00:00.000Z
 Policy: https://github.com/lichess-org/lila/security/policy
-
