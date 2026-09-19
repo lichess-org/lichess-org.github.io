@@ -36,6 +36,8 @@
           { "/": "/password", "exclude": true },
           { "/": "/security", "exclude": true },
           { "/": "/activity", "exclude": true },
+          { "/": "/team/all", "exclude": true },
+          { "/": "/team/new", "exclude": true },
           { "/": "/????????" },
           { "/": "/????????/black" },
           { "/": "/????????/white" },
