@@ -29,6 +29,8 @@
           { "/": "/password",  "exclude": true },
           { "/": "/security",  "exclude": true },
           { "/": "/activity",  "exclude": true },
+          { "/": "/team/all",  "exclude": true },
+          { "/": "/team/new",  "exclude": true },
           { "/": "/????????", "comment": "Games and challenges" },
           { "/": "/????????/black", "comment": "Games (black perspective)" },
           { "/": "/????????/white", "comment": "Games (white perspective)" }
