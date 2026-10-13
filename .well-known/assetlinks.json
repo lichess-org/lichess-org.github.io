@@ -21,6 +21,8 @@
           { "/": "/@/*" },
           { "/": "/tv/*" },
           { "/": "/broadcast/*" },
+          { "/": "/editor" },
+          { "/": "/editor/*" },
           { "/": "/training", "exclude": true },
           { "/": "/analysis", "exclude": true },
           { "/": "/settings", "exclude": true },

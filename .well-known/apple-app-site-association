@@ -14,6 +14,8 @@
           { "/": "/@/*/*", "exclude": true, "comment": "Exclude any unsupported user profile paths" },
           { "/": "/@/*", "comment": "User profile or user TV" },
           { "/": "/tv/*", "comment": "Lichess TV" },
+          { "/": "/editor", "comment": "Board editor" },
+          { "/": "/editor/*/*/*/*/*/*/*/*", "comment": "Board editor with position (FEN = 8 ranks)" },
           { "/": "/training",  "exclude": true },
           { "/": "/analysis",  "exclude": true },
           { "/": "/settings",  "exclude": true },
